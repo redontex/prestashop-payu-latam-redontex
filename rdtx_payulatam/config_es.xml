@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>rdtx_payulatam</name>
+    <displayName><![CDATA[PayU Latam, Redontex]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Pasarela de pago para PayU Latam usando web checkout]]></description>
+    <author><![CDATA[Redontex SL]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[¿Desinstalar el módulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

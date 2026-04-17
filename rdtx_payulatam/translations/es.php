@@ -1,0 +1,36 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_98b3afb4233fba0baaeb554cf48ce646'] = 'PayU Latam, Redontex';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_cb3af316862ec2d7441b3d8d8c8549d9'] = 'Pasarela de pago para PayU Latam usando web checkout';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_3d19eac72edc2ae55a7af46f35febec9'] = '¿Desinstalar el módulo?';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_f4f70727dc34561dfde1a3c529b6205c'] = 'Configuración';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_4900277fff3afc0461ef35ed8e4dfc8d'] = 'Merchant ID:';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_c2d3945d15f150e78d808bd885b4f92b'] = 'Account ID:';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_ed7a1f73f28e3e6ecbf256ad8103f303'] = 'API Key:';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_03a36f89aad8dd8286bc5fe6692cbbeb'] = 'Modo Prueba';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_3cccc67ffc2ffe4991836cc2bfe1158f'] = 'Poner en ON para activar el modo de prueba';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_53b96c3aa535ed88afe3edfaaa3e570d'] = 'Modo Producción';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_f294415762cd55bae32afc073baa5205'] = 'Pagar con PayU Latam';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_6e145d9d5dd6a2600dbccbc95fad02fd'] = 'Indicar Merchant ID';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_0ed68738a9c35c64511344c34f31875b'] = 'Indicar Account ID';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_25baf43aac5feb08403f4bd961dc9807'] = 'Indicar API Key';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_e64402d89c8fb898f887dc08a596a0f7'] = 'Seleccionar modo de trabajo (prueba o producción)';
+$_MODULE['<{rdtx_payulatam}prestashop>rdtx_payulatam_96d4dadd096605d5813d2c6bdf82e82c'] = 'Configuración guardada';
+$_MODULE['<{rdtx_payulatam}prestashop>confirmation_83a707eb06ddebfde14b61d39c38582d'] = 'NO AUTORIZADO';
+$_MODULE['<{rdtx_payulatam}prestashop>response_83a707eb06ddebfde14b61d39c38582d'] = 'NO AUTORIZADO';
+$_MODULE['<{rdtx_payulatam}prestashop>response_55d19b3339fdd8d7b91522ad3f0a93b9'] = 'Se ha roto la integridad de los datos';
+$_MODULE['<{rdtx_payulatam}prestashop>displayadminordermainbottom_9db98ac3a3e4556a445d39bd0c26fdbe'] = ' Pedido pagado con %moduleDisplayName%.';
+$_MODULE['<{rdtx_payulatam}prestashop>payment_return_50940b8ab78f92c2b914cc4e2b34360d'] = ' Estado de tu pago con PayU';
+$_MODULE['<{rdtx_payulatam}prestashop>payment_return_4f79cfbec682202d1d7ad95fb9447a12'] = 'Tu pago ha sido aprobado, tu pedido está siendo preparado. Gracias por tu preferencia.';
+$_MODULE['<{rdtx_payulatam}prestashop>payment_return_b765a1a7366c48be66491385f031ff3d'] = 'Tu pago está pendiente de confirmación.';
+$_MODULE['<{rdtx_payulatam}prestashop>payment_return_89500603a637ecc1d03423ae500447f2'] = 'Tu pago ha presentado un fallo.';
+$_MODULE['<{rdtx_payulatam}prestashop>payment_return_a96a80f4bc2cde390bada8ff980d456c'] = 'Estamos procesando tu pago.';
+$_MODULE['<{rdtx_payulatam}prestashop>payment_return_9fa34cadc84ab3648cde537609c237cf'] = 'Tu pago fue rechazado.';
+$_MODULE['<{rdtx_payulatam}prestashop>payment_return_62b44527cd577b2acdce3edda3ea4e25'] = 'Referencia del pedido:';
+$_MODULE['<{rdtx_payulatam}prestashop>payulatam_payment_f294415762cd55bae32afc073baa5205'] = 'Pagar con PayU Latam';
+$_MODULE['<{rdtx_payulatam}prestashop>configure_01a9dc013ec2fd998f32cb2cc955fdda'] = 'Crear una cuenta en PayU';
+$_MODULE['<{rdtx_payulatam}prestashop>configure_310b013ef77c8b084b220d0cddf9db74'] = 'Redontex - Pagos con PayU Latam';
+$_MODULE['<{rdtx_payulatam}prestashop>configure_adbb56bb564cdaf3b0744fafd984439d'] = 'Llenar con los datos que encontrará en el panel de PayU';
